@@ -6,7 +6,7 @@ The site : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
-2020-06-26
+2022-06-26
 
 - 크레인 인형뽑기 게임 :coffee:
 - 숫자 문자열과 영단어 :coffee:
@@ -14,6 +14,11 @@ The site : [Programmers](https://programmers.co.kr/)
 - 신규 아이디 추천 :coffee:
 
 ### Level 2
+
+2022-06-27
+
+- 최댓값과 최솟값 :coffee:
+- 오픈채팅방 :coffee:
 
 @[Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 @[Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
