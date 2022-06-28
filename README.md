@@ -13,12 +13,22 @@ The site : [Programmers](https://programmers.co.kr/)
 - 가운데 글자 가져오기 :coffee:
 - 신규 아이디 추천 :coffee:
 
+2022-06-28
+
+- 신고 결과 받기 :coffee:
+
 ### Level 2
 
 2022-06-27
 
 - 최댓값과 최솟값 :coffee:
 - 오픈채팅방 :coffee:
+
+### Level 3
+
+2022-06-28
+
+- 브라이언의 고민 :pause_button:
 
 @[Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 @[Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
