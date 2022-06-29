@@ -17,12 +17,20 @@ The site : [Programmers](https://programmers.co.kr/)
 
 - 신고 결과 받기 :coffee:
 
+2022-06-29
+
+- 로또의 최고 순위와 최저 순위 :coffee:
+
 ### Level 2
 
 2022-06-27
 
 - 최댓값과 최솟값 :coffee:
 - 오픈채팅방 :coffee:
+
+2022-06-29
+
+- 문자열 압축 :coffee:
 
 ### Level 3
 
