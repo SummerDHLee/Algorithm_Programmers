@@ -21,6 +21,10 @@ The site : [Programmers](https://programmers.co.kr/)
 
 - 로또의 최고 순위와 최저 순위 :coffee:
 
+2022-06-30
+
+- 키패드 누르기 :coffee:
+
 ### Level 2
 
 2022-06-27
@@ -31,6 +35,10 @@ The site : [Programmers](https://programmers.co.kr/)
 2022-06-29
 
 - 문자열 압축 :coffee:
+
+2022-0630
+
+- 카카오프렌즈 컬러링북 :pause_button:
 
 ### Level 3
 
